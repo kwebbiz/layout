@@ -1,0 +1,34 @@
+{
+  "name": "vendors",
+  "version": "0.0.0",
+  "authors": [],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "*",
+    "bower": "*",
+    "install": "~1.0.4",
+    "malihu-custom-scrollbar-plugin": "*",
+    //"material-design-iconic-font": "*",
+    "material-shadows": "^2.0.2",
+    "sweetalert": "*",
+    "Waves": "fians/Waves#^0.7.5",
+    "jquery": "<3.0.0",
+    "bootstrap": "*",
+    "smartmenus": "1.0.0",
+    "nprogress": "*",
+    "Hover": "*",
+    "photobox" : "*",
+    "flickity": "*"
+  }
+}
