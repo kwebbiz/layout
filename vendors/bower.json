@@ -19,7 +19,6 @@
     "bower": "*",
     "install": "~1.0.4",
     "malihu-custom-scrollbar-plugin": "*",
-    //"material-design-iconic-font": "*",
     "material-shadows": "^2.0.2",
     "sweetalert": "*",
     "Waves": "fians/Waves#^0.7.5",
