@@ -37,6 +37,7 @@ module.exports = function(grunt) {
             	    'vendors/bower_components/sweetalert/dist/sweetalert.min.js',
 //            	    'vendors/bower_components/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js',
             	    'vendors/bootstrap-growl/bootstrap-growl.min.js',
+            	    'vendors/jQuery-Equal-Height-Columns/jquery.equalheightcolumns.js',
 
 
             	    
